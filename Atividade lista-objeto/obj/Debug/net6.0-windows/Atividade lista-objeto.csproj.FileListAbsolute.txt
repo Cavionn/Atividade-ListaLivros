@@ -1,0 +1,17 @@
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.exe
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.deps.json
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.runtimeconfig.json
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.dll
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.pdb
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.csproj.AssemblyReference.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade_lista_objeto.Form1.resources
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.csproj.GenerateResource.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.AssemblyInfoInputs.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.AssemblyInfo.cs
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.csproj.CoreCompileInputs.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.dll
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\refint\Atividade lista-objeto.dll
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.pdb
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.genruntimeconfig.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\ref\Atividade lista-objeto.dll

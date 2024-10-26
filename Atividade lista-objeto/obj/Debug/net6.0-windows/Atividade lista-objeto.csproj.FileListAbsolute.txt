@@ -15,3 +15,20 @@ C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista
 C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.pdb
 C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.genruntimeconfig.cache
 C:\Users\GIORGIOCAVIONTIBURI\source\repos\Atividade lista-objeto\Atividade lista-objeto\obj\Debug\net6.0-windows\ref\Atividade lista-objeto.dll
+C:\GIT\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.exe
+C:\GIT\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.deps.json
+C:\GIT\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.runtimeconfig.json
+C:\GIT\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.dll
+C:\GIT\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.pdb
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.csproj.AssemblyReference.cache
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade_lista_objeto.Form1.resources
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.csproj.GenerateResource.cache
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.AssemblyInfoInputs.cache
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.AssemblyInfo.cs
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.csproj.CoreCompileInputs.cache
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.dll
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\refint\Atividade lista-objeto.dll
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.pdb
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.genruntimeconfig.cache
+C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\ref\Atividade lista-objeto.dll

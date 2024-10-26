@@ -19,6 +19,8 @@ namespace Atividade_lista_objeto
         public string edicao { get; set; }
         public string idioma { get; set; }
 
+        public string genero { get; set; }
+
         public int ano { get; set; }
 
         public int paginas { get; set; }

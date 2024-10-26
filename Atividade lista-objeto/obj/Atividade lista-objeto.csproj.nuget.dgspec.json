@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GIORGIOCAVIONTIBURI\\source\\repos\\Atividade lista-objeto\\Atividade lista-objeto\\Atividade lista-objeto.csproj": {}
+    "C:\\GIT\\Atividade lista-objeto\\Atividade lista-objeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GIORGIOCAVIONTIBURI\\source\\repos\\Atividade lista-objeto\\Atividade lista-objeto\\Atividade lista-objeto.csproj": {
+    "C:\\GIT\\Atividade lista-objeto\\Atividade lista-objeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GIORGIOCAVIONTIBURI\\source\\repos\\Atividade lista-objeto\\Atividade lista-objeto\\Atividade lista-objeto.csproj",
+        "projectUniqueName": "C:\\GIT\\Atividade lista-objeto\\Atividade lista-objeto.csproj",
         "projectName": "Atividade lista-objeto",
-        "projectPath": "C:\\Users\\GIORGIOCAVIONTIBURI\\source\\repos\\Atividade lista-objeto\\Atividade lista-objeto\\Atividade lista-objeto.csproj",
+        "projectPath": "C:\\GIT\\Atividade lista-objeto\\Atividade lista-objeto.csproj",
         "packagesPath": "C:\\Users\\GIORGIOCAVIONTIBURI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GIORGIOCAVIONTIBURI\\source\\repos\\Atividade lista-objeto\\Atividade lista-objeto\\obj\\",
+        "outputPath": "C:\\GIT\\Atividade lista-objeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

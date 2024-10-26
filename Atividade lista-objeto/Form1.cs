@@ -91,6 +91,8 @@ namespace Atividade_lista_objeto
 
         private void dgvLivros_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
+            Livros livro = new Livros();
+
             if (e.RowIndex >= 0 && e.ColumnIndex >= 0)
             {
                 int id = Convert.ToInt32(dgvLivros.Rows[e.RowIndex].Cells["id"].Value);
@@ -109,9 +111,21 @@ namespace Atividade_lista_objeto
                         CarregaProdutos();
                     }
 
-                    else if(operation == "btnEditar")
-                    {
+                    
+                }
 
+                else if (operation == "btnEditar")
+                {
+                    int linha = Convert.ToInt32(dgvLivros.Rows[e.RowIndex].Cells["id"].Value);
+                    Livros temp = livros.Find(x => x.id == linha);
+
+                    if (temp != null)
+                    {
+                        txtId.Text = temp.id.ToString();
+                        txtTitulo.Text = temp.titulo;
+                        txtPaginas.Text = temp.id.ToString();
+                        txtIdioma.Text = temp idioma
+                        //restante dos atributos
                     }
                 }
             }

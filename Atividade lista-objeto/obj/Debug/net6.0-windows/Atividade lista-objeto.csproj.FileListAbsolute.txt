@@ -32,3 +32,20 @@ C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\refint\Atividade lista-ob
 C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.pdb
 C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.genruntimeconfig.cache
 C:\GIT\Atividade lista-objeto\obj\Debug\net6.0-windows\ref\Atividade lista-objeto.dll
+C:\Gite\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.exe
+C:\Gite\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.deps.json
+C:\Gite\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.runtimeconfig.json
+C:\Gite\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.dll
+C:\Gite\Atividade lista-objeto\bin\Debug\net6.0-windows\Atividade lista-objeto.pdb
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.csproj.AssemblyReference.cache
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade_lista_objeto.Form1.resources
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.csproj.GenerateResource.cache
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.AssemblyInfoInputs.cache
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.AssemblyInfo.cs
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.csproj.CoreCompileInputs.cache
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.dll
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\refint\Atividade lista-objeto.dll
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.pdb
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\Atividade lista-objeto.genruntimeconfig.cache
+C:\Gite\Atividade lista-objeto\obj\Debug\net6.0-windows\ref\Atividade lista-objeto.dll
